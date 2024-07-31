@@ -1,0 +1,25 @@
+cloneWorkshops: false
+contact:
+- email: ''
+  name: ''
+organizers:
+- email: ''
+  name: ''
+sessions:
+- date: ''
+  description: ''
+  helpers:
+  - name: ''
+  instructors:
+  - name:
+      email: ''
+      name: ''
+  location: ''
+  time: ''
+  title: ''
+  workshop: ''
+sponsors:
+- link: ''
+  name: ''
+workshopsrepo: workshops
+workshopsuser: dhri-curriculum
